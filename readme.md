@@ -1,6 +1,7 @@
 For reviewers who want run the code, we upload parts of the codes in the Google Colab environment:
 https://colab.research.google.com/drive/1FPEoI_qWJPmg0JtWhcfEUYBuAJp9Ed6L?usp=sharing
 ## Important configuration settings
+```bash
 learning rate: lr = 0.01
 epochs = 25
 batch_size = 128
@@ -8,9 +9,8 @@ workers = 50
 nbyz = 0 # numbers of malicious clients 
 byz_type = 'gaussian-attack' # or "bitflip_attack"
 aggregation = "emvr" #"krum" or "median"
-
 data_flag = 'tissuemnist' #bloodmnist
-
+```
 ## Installation
 To run this project, you'll need to install the following packages:
 
