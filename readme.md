@@ -1,5 +1,6 @@
 For reviewers who want run the code, we upload parts of the codes in the Google Colab environment:
-https://colab.research.google.com/drive/1FPEoI_qWJPmg0JtWhcfEUYBuAJp9Ed6L?usp=sharing
+Pytorch version: https://colab.research.google.com/drive/1FPEoI_qWJPmg0JtWhcfEUYBuAJp9Ed6L?usp=sharing
+MXNet version: https://colab.research.google.com/drive/1_rBaWi-v68RBFNtVlHm4G871LCv-wIaR?usp=sharing
 ## Important configuration settings
 ```bash
 learning rate: lr = 0.01
